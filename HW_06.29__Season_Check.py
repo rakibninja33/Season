@@ -24,5 +24,4 @@ def check_season():
             print("Invalid Input")
 
 
-
 check_season()
